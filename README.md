@@ -229,4 +229,6 @@ kicad-cli sch export pdf -o EM_Coupling/EM_Coupling.pdf EM_Coupling/EM_Coupling.
 
 ## License
 
-No license has been chosen yet. Add a `LICENSE` file, such as MIT for the scripts or CERN-OHL-P for the hardware, before publishing.
+MIT License
+
+Copyright (c) 2026 B M Sadman Showmi
